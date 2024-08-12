@@ -1,0 +1,24 @@
+H:\study winform\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+H:\study winform\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+H:\study winform\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+H:\study winform\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+H:\study winform\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+H:\study winform\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+H:\study winform\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+H:\study winform\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+H:\study winform\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+H:\study winform\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+H:\study winform\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Login.resources
+H:\study winform\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Bill.resources
+C:\Users\dell g15\Documents\SEO7201\Pro asm 2\LongVu-main\LongVu-main\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\dell g15\Documents\SEO7201\Pro asm 2\LongVu-main\LongVu-main\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\dell g15\Documents\SEO7201\Pro asm 2\LongVu-main\LongVu-main\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\dell g15\Documents\SEO7201\Pro asm 2\LongVu-main\LongVu-main\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\dell g15\Documents\SEO7201\Pro asm 2\LongVu-main\LongVu-main\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Bill.resources
+C:\Users\dell g15\Documents\SEO7201\Pro asm 2\LongVu-main\LongVu-main\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\dell g15\Documents\SEO7201\Pro asm 2\LongVu-main\LongVu-main\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Login.resources
+C:\Users\dell g15\Documents\SEO7201\Pro asm 2\LongVu-main\LongVu-main\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\dell g15\Documents\SEO7201\Pro asm 2\LongVu-main\LongVu-main\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\dell g15\Documents\SEO7201\Pro asm 2\LongVu-main\LongVu-main\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\dell g15\Documents\SEO7201\Pro asm 2\LongVu-main\LongVu-main\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\dell g15\Documents\SEO7201\Pro asm 2\LongVu-main\LongVu-main\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
